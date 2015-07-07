@@ -1,1 +1,1 @@
-# JenkinsHandsonSample
+## JenkinsHandsonで利用するためのサンプルRepositoryです
